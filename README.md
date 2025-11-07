@@ -87,7 +87,7 @@ src/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Bhuviofficial/React-project
+git clone
 cd movie-search-app
 ```
 
