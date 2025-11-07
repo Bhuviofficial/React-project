@@ -82,8 +82,6 @@ src/
 
 ---
 
-## ⚙️ Setup Instructions
-
 ### 1️⃣ Clone the repository
 
 ```bash
@@ -97,13 +95,10 @@ cd movie-search-app
 npm install
 ```
 
-### 3️⃣ Get your OMDB API Key
-
 1. Visit [https://www.omdbapi.com/apikey.aspx](https://www.omdbapi.com/apikey.aspx)
 2. Sign up for a **free API key**
 3. Copy your key
 
-### 4️⃣ Add your API key
 
 In `Home.jsx` and `Details.jsx`, replace:
 
@@ -145,8 +140,6 @@ Then open your browser at [http://localhost:5173](http://localhost:5173)
 * Use **Next** / **Prev** buttons to browse more results.
 
 ---
-
-## 📸 Screenshots (Example)
 
 **Home Page**
 
