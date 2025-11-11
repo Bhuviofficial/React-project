@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
-const API_KEY = "your_api_key_here";
+const API_KEY = "f34ac4cf";
 
 function Details() {
   const { id } = useParams();
